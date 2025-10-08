@@ -30,8 +30,9 @@ In short: _I study how data reveals economic dynamics that policy often hides._
 
 ### 🧭 *Observatório de Empresas do Espírito Santo - Business Observatory*  
 An open data initiative combining firm-level CNPJ records, RAIS/CAGED microdata, and spatial indicators to monitor economic activity across municipalities and sectors.  
+Tools: Python, SQL, Looker Studio, BigQuery
+
 [Dashboard Link](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
-Tools: Python, SQL, PostGIS, Looker Studio, Metabase
 
 ### 🌊 *ZEEC-ES — Coastal Economic Zoning Project*  
 Designing a geospatial framework for ecological–economic planning of coastal regions in Espírito Santo, integrating environmental, connectivity, and labor indicators.  
@@ -39,8 +40,9 @@ Focus: georeferenced modeling, infrastructure mapping, and economic clusters.
 
 ### 📈 *Uncertain Politics, Predictable Consumption?*  
 Working paper under review at *Emerging Markets Review*.  
-[SSRN Link](https://dx.doi.org/10.2139/ssrn.5510940)  
 Explores how political uncertainty affects consumption patterns and labor market responses in Latin America.
+
+[SSRN Link](https://dx.doi.org/10.2139/ssrn.5510940)  
 
 ---
 
@@ -85,7 +87,7 @@ I also lead student projects applying open government data to real-world busines
 - [LinkedIn](https://linkedin.com/in/danielgalveas)  
 - [SSRN](https://dx.doi.org/10.2139/ssrn.5510940)  
 - [Google Scholar](https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en)  
-- [FUCAPE Profile](https://www.fucape.br)
+- [Medium](https://medium.com/@dangalveas)
 
 ---
 
