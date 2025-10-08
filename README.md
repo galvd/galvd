@@ -10,8 +10,8 @@ Lecturer (FUCAPE) • Head of Data and IT (ZEEC-ES) • Coordinator, Business Ob
 ## About Me
 
 I work at the intersection of **applied economics, data science, and public policy evaluation**.  
-My research focuses on how **information, regulation, and uncertainty** shape firm behavior and regional development.  
-Currently, I coordinate data infrastructure and analytics projects that connect administrative microdata (RAIS, CAGED, CNPJ) with spatial analysis for economic monitoring in Espírito Santo, Brazil.
+My research focuses on how information, regulation, and spatial structures shape firm behavior and regional development through geoeconomic analysis.
+Currently, I coordinate data infrastructure and analytics projects that connect Brazilian administrative microdata (e.g RAIS, CAGED, CNPJ) with spatial analysis for economic monitoring in Espírito Santo, Brazil.
 
 In short: _I study how data reveals economic dynamics that policy often hides._
 
