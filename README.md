@@ -49,11 +49,11 @@ Explores how political uncertainty affects consumption patterns and labor market
 ## Selected Publications
 
 - **“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”**  
-  *Public Health (Elsevier), 2021*  
+  *Public Health, 2021*  
   [DOI: 10.1016/j.puhe.2021.05.010](https://doi.org/10.1016/j.puhe.2021.05.010)
 
 - **“On the Regulation of Checked Baggage in the Airline Industry.”**  
-  *Journal of the Asia Pacific Economy, 2021*  
+  *International Economic Journal, 2021*  
   [DOI: 10.1080/10168737.2021.1962949](https://doi.org/10.1080/10168737.2021.1962949)
 
 ---
