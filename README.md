@@ -30,7 +30,7 @@ In short: _I study how data reveals economic dynamics that policy often hides._
 
 ### 🧭 *Observatório de Empresas do Espírito Santo - Business Observatory*  
 An open data initiative combining firm-level CNPJ records, RAIS/CAGED microdata, and spatial indicators to monitor economic activity across municipalities and sectors.  
-[Dashboard Link] (https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
+[Dashboard Link](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
 Tools: Python, SQL, PostGIS, Looker Studio, Metabase
 
 ### 🌊 *ZEEC-ES — Coastal Economic Zoning Project*  
