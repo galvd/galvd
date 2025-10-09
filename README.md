@@ -85,7 +85,6 @@ I also lead student projects applying open government data to real-world busines
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/danielgalveas)  
-- [SSRN](https://dx.doi.org/10.2139/ssrn.5510940)  
 - [Google Scholar](https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en)  
 - [Medium](https://medium.com/@dangalveas)
 
