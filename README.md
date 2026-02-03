@@ -1,21 +1,30 @@
-# Daniel Galvêas
-
-Ph.D. Candidate in Business Administration — [FUCAPE Business School](https://www.fucape.br)  
-Lecturer (FUCAPE) • Head of Data and IT (ZEEC-ES) • Coordinator, Business Observatory (FUCAPE)  
-📍 Vitória, Espírito Santo — Brazil  
-📧 [danielgalveas@fucape.br](mailto:danielgalveas@fucape.br)
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h1>Daniel Galveas</h1>
+      <p>
+        Ph.D. Candidate in Business Administration — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
+        Lecturer (FUCAPE)<br>
+        Coordinator, Business Observatory (FUCAPE)<br>
+        Head of Data and IT (ZEEC-ES)<br><br>
+        📍 Vitória, Espírito Santo — Brazil<br>
+        📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGOwXcXG-QD9g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1666639659903?e=1771459200&v=beta&t=-3BN-nUSm6ruyNY3AYWXvPYeVdBOIoxVo8X67UIKJ-E" alt="Daniel Galveas" width="100%" style="border-radius:50%;">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## About Me
 
 I work at the intersection of **applied economics, data science, and public policy evaluation**.  
-My research focuses on how information, regulation, and spatial structures shape firm behavior and regional development through geoeconomic analysis.
-Currently, I coordinate data infrastructure and analytics projects that connect Brazilian administrative microdata (e.g RAIS, CAGED, CNPJ) with spatial analysis for economic monitoring in Espírito Santo, Brazil.
+My research focuses on how information, regulation, and spatial structures shape firm behavior and regional development through geoeconomic analysis. Currently, I coordinate data infrastructure and analytics projects that connect Brazilian administrative microdata (e.g RAIS, CAGED, CNPJ) with spatial analysis for economic monitoring in Espírito Santo, Brazil.
 
 In short: _I study how data reveals economic dynamics that policy often hides._
-
----
 
 ## Research Focus
 
