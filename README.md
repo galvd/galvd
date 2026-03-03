@@ -63,7 +63,7 @@ Explores how political uncertainty affects consumption patterns and labor market
 
 At [FUCAPE Business School](https://www.fucape.br), I lecture in **Data Science**, **Economics** and mentor undergraduate research teams.  
 Recent courses:
-- *Introduction to Microeconomics*  
+- *Introduction to Macroeconomics*  
 - *Data Science Methods*  
 - *Introduction to Python Programming*  
 - *Data Science in Social Networks*  
