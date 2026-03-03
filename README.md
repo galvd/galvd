@@ -91,5 +91,9 @@ I also lead student projects applying open government data to real-world busines
 
 ---
 
+## Reading Recomendations
+
+[For the full list, click here](./leituras.md)
+
 > "_I use open data to make economic evidence public._"
 
