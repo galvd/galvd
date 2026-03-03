@@ -83,17 +83,19 @@ I also lead student projects applying open government data to real-world busines
 
 ---
 
+## Reading Recomendations
+
+[For the full list, click here](./readings.md)
+
+---
+
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/danielgalveas)  
 - [Google Scholar](https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en)  
 - [Medium](https://medium.com/@dangalveas)
 
----
 
-## Reading Recomendations
-
-[For the full list, click here](./leituras.md)
 
 > "_I use open data to make economic evidence public._"
 
