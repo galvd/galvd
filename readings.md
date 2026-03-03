@@ -10,16 +10,31 @@ Este espaço é dedicado ao registro de leituras focadas em **Economia, Finança
 *Análise de como regras, política e história moldam o desenvolvimento das nações.*
 
 <details>
-  <summary><strong>Why Nations Fail (Acemoglu & Robinson)</strong></summary>
-  <br>
-  
-  **Review:** Explora a tese de que o sucesso econômico depende de instituições políticas e econômicas inclusivas em vez de extrativas. Os autores utilizam exemplos históricos para mostrar como o incentivo à inovação e a dispersão do poder são os verdadeiros motores da riqueza.  
+<summary><strong>Why Nations Fail (Acemoglu & Robinson)</strong></summary>
 
-  Um dos maior livros não-técnicos, se não o maior, sobre economia institucional. É difícil não comprar o argumento de que a visão institucionalista é a que melhor explica a nossa sociedade. Why Nations Fail me trouxe uma perspectiva mais sólida sobre desenvolvimento econômico que foge, e muito, das triviais teses de que características e eventos como clima, recursos naturais e colonialismo explicam o tema. 
-  
-  **Nota:** ⭐⭐⭐⭐⭐
 
-  [Ver na Amazon EN-US](https://amzn.to/4u6RHVi)  - [Ver na Amazon PT-BR](https://amzn.to/47m05GF)
+<table>
+<tr>
+<td width="25%" valign="top">
+<img src="https://m.media-amazon.com/images/I/91Yq6uPS68L.jpg" alt="Why Nations Fail" width="100%"/>
+</td>
+<td width="75%" valign="top">
+<strong>Review:</strong> Explora a tese de que o sucesso econômico depende de instituições políticas e econômicas inclusivas em vez de extrativas. Os autores utilizam exemplos históricos para mostrar como o incentivo à inovação e a dispersão do poder são os verdadeiros motores da riqueza.
+
+
+
+Um dos maiores livros não-técnicos sobre economia institucional. Why Nations Fail me trouxe uma perspectiva sólida sobre desenvolvimento econômico que foge das teses triviais de clima ou recursos naturais.
+
+
+
+<strong>Nota:</strong> ⭐⭐⭐⭐⭐
+
+
+
+🛒 <a href="https://amzn.to/4u6RHVi">Amazon EN-US</a> | <a href="https://amzn.to/47m05GF">Amazon PT-BR</a>
+</td>
+</tr>
+</table>
 </details>
 
 <details>
