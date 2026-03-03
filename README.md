@@ -2,8 +2,8 @@
       <p>
         Ph.D. Candidate in Business Administration — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
         Lecturer (FUCAPE)<br>
-        Coordinator, Business Observatory (FUCAPE)<br>
         Head of Data and IT (ZEEC-ES)<br><br>
+        Public Data Analytics Consultant
         📍 Vitória, Espírito Santo — Brazil<br>
         📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
       </p>
