@@ -16,7 +16,7 @@ Este espaço é dedicado ao registro de leituras focadas em **Economia, Finança
 <table>
 <tr>
 <td width="25%" valign="top">
-<img src="https://m.media-amazon.com/images/I/91Yq6uPS68L.jpg" alt="Why Nations Fail" width="100%"/>
+<img src="https://m.media-amazon.com/images/I/91j9vfc0GmL._AC_UF1000,1000_QL80_.jpg" alt="Why Nations Fail" width="100%"/>
 </td>
 <td width="75%" valign="top">
 <strong>Review:</strong> Explora a tese de que o sucesso econômico depende de instituições políticas e econômicas inclusivas em vez de extrativas. Os autores utilizam exemplos históricos para mostrar como o incentivo à inovação e a dispersão do poder são os verdadeiros motores da riqueza.
