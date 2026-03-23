@@ -72,6 +72,16 @@ I also lead student projects applying open government data to real-world busines
 
 ---
 
+## Selected Media Appearances
+
+### Portuguese
+
+[Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo](https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/)
+
+
+
+---
+
 ## Tools & Methods
 
 | Domain | Tools |
