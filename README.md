@@ -31,19 +31,23 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
 
 ## Projetos em Andamento
 
-### *Observatório de Empresas do Espírito Santo* Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
+### *Observatório de Empresas do Espírito Santo* 
+Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
 Ferramentas: Python, SQL, Looker Studio, BigQuery.
 
 [Link do Dashboard](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
 
-### *ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro* Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
+### *ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro* 
+Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
 Foco: modelagem georreferenciada, mapeamento de infraestrutura e clusters econômicos.
 
-### *Acompanhamento das Expectativas do Boletim Focus* Painel que acompanha as previsões semanais expostas no Boletim Focus em relação ao dado real (PIB, Selic, IPCA, Câmbio)
+### *Acompanhamento das Expectativas do Boletim Focus* 
+Painel que acompanha as previsões semanais expostas no Boletim Focus em relação ao dado real (PIB, Selic, IPCA, Câmbio)
 
 [Link do Painel com os gráficos](https://github.com/galvd/bcb_focus_expectations/blob/main/charts/index.md)
 
-### *Uncertain Politics, Predictable Consumption?* Working paper sob revisão na *Emerging Markets Review*.  
+### *Uncertain Politics, Predictable Consumption?* 
+Working paper sob revisão na *Emerging Markets Review*.  
 Explora como a incerteza política afeta os padrões de consumo e as respostas do mercado de trabalho na América Latina.
 
 [Link SSRN](https://dx.doi.org/10.2139/ssrn.5510940)  
