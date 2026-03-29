@@ -5,8 +5,8 @@
   Doutorando em Administração — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
   Professor (FUCAPE)<br>
   Analista de Políticas Públicas (Ranking dos Políticos)<br>
-  Head de Dados e TI (ZEEC-ES)<br><br>
-  Consultor em Análise de Dados Públicos<br>
+  Head de Dados e TI (ZEEC-ES)<br>
+  Consultor em Análise de Dados Públicos<br><br>
   📍 Vitória, Espírito Santo — Brasil<br>
   📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
 </p>

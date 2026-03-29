@@ -3,8 +3,8 @@
         Ph.D. Candidate in Business Administration — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
         Lecturer (FUCAPE)<br>
         Policy Analyst (Ranking dos Políticos)<br>
-        Head of Data and IT (ZEEC-ES)<br><br>
-        Public Data Analytics Consultant
+        Head of Data and IT (ZEEC-ES)<br>
+        Public Data Analytics Consultant <br><br>
         📍 Vitória, Espírito Santo — Brazil<br>
         📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
       </p>
