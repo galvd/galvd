@@ -1,4 +1,4 @@
- ##### 🌎 [Click here for English Version](./README_EN.md)
+##### 🌎 [Click here for English Version](./README_EN.md)
 
 <h1>Daniel Galvêas</h1>
 <p>
@@ -13,84 +13,121 @@
 
 ---
 
-## Sobre Mim
+<details>
+  <summary><strong>📖 Sobre Mim</strong></summary>
+  <br>
+  Atuo na intersecção entre <strong>economia aplicada, ciência de dados e avaliação de políticas públicas</strong>.  
 
-Atuo na intersecção entre **economia aplicada, ciência de dados e avaliação de políticas públicas**.  
-Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
+  Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
 
-Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as políticas muitas vezes ocultam._
+  Em resumo: <em>Estudo como os dados revelam dinâmicas socioeconômicas que as políticas públicas muitas vezes ignoram.</em>
+</details>
 
-## Foco de Pesquisa
+<details>
+  <summary><strong>🎯 Foco de Pesquisa</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Economia da Informação</strong> — sinalização, disclosure e informação assimétrica</li>
+    <li><strong>Economia do Trabalho</strong> — dinâmica de empregos, produtividade e mobilidade regional</li>
+    <li><strong>Organização Industrial</strong> — regulação, concorrência e comportamento da firma</li>
+    <li><strong>Avaliação de Políticas Públicas</strong> — inferência causal e integração de dados geoeconômicos</li>
+  </ul>
+</details>
 
-- **Economia da Informação** — sinalização, disclosure e informação assimétrica  
-- **Economia do Trabalho** — dinâmica de empregos, produtividade e mobilidade regional  
-- **Organização Industrial** — regulação, concorrência e comportamento da firma  
-- **Avaliação de Políticas Públicas** — inferência causal e integração de dados geoeconômicos  
+<details>
+  <summary><strong>🧭 Projetos em Andamento</strong></summary>
+  <br>
+  <h3>Observatório de Empresas do Espírito Santo</h3>
+  Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
+  Ferramentas: Python, SQL, Looker Studio, BigQuery.
+  <br>
+  <a href="https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld">Link do Dashboard</a>
 
----
+  <h3>ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro</h3>
+  Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
+  Foco: modelagem georreferenciada, mapeamento de infraestrutura e clusters econômicos.
 
-## Projetos em Andamento
+  <h3>Acompanhamento das Expectativas do Boletim Focus</h3>
+  Painel que acompanha as previsões semanais expostas no Boletim Focus em relação aos dados reais (PIB, Selic, IPCA e Taxa de Câmbio).
+  <br>
+  <a href="https://github.com/galvd/bcb_focus_expectations/blob/main/charts/index.md">Link do Painel com os gráficos</a>
 
-### *Observatório de Empresas do Espírito Santo* 
-Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
-Ferramentas: Python, SQL, Looker Studio, BigQuery.
+  <h3>Uncertain Politics, Predictable Consumption?</h3>
+  Working paper sob revisão na <em>Emerging Markets Review</em>.  
+  Explora como a incerteza política afeta os padrões de consumo e as respostas do mercado de trabalho na América Latina.
+  <br>
+  <a href="https://dx.doi.org/10.2139/ssrn.5510940">Link SSRN</a>
+</details>
 
-[Link do Dashboard](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
+<details>
+  <summary><strong>📚 Publicações Selecionadas</strong></summary>
+  <br>
+  <ul>
+    <li><strong>“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”</strong> <em>Public Health, 2021</em> <a href="https://doi.org/10.1016/j.puhe.2021.05.010">[DOI]</a></li>
+    <li><strong>“On the Regulation of Checked Baggage in the Airline Industry.”</strong> <em>International Economic Journal, 2021</em> <a href="https://doi.org/10.1080/10168737.2021.1962949">[DOI]</a></li>
+  </ul>
+</details>
 
-### *ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro* 
-Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
-Foco: modelagem georreferenciada, mapeamento de infraestrutura e clusters econômicos.
+<details>
+  <summary><strong>👨‍🏫 Docência e Mentoria</strong></summary>
+  <br>
+  Na <a href="https://www.fucape.br">FUCAPE Business School</a>, leciono disciplinas de <strong>Ciência de Dados</strong> e <strong>Economia</strong>, além de orientar grupos de iniciação científica.  
+  Cursos recentes:
+  <ul>
+    <li>Introdução à Macroeconomia</li>
+    <li>Métodos em Ciência de Dados</li>
+    <li>Introdução à Programação em Python</li>
+    <li>Ciência de Dados em Redes Sociais</li>
+  </ul>
+  Também lidero projetos estudantis que aplicam dados governamentais abertos em contextos reais de negócios e políticas públicas.
+</details>
 
-### *Acompanhamento das Expectativas do Boletim Focus* 
-Painel que acompanha as previsões semanais expostas no Boletim Focus em relação ao dado real (PIB, Selic, IPCA, Câmbio)
+<details>
+  <summary><strong>📺 Presença na Mídia</strong></summary>
+  <br>
+  <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360</a>
+</details>
 
-[Link do Painel com os gráficos](https://github.com/galvd/bcb_focus_expectations/blob/main/charts/index.md)
+<details>
+  <summary><strong>🛠️ Ferramentas e Métodos</strong></summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Domínio</th>
+        <th>Ferramentas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Programação</td>
+        <td>Python, SQL, Stata</td>
+      </tr>
+      <tr>
+        <td>Eng. de Dados</td>
+        <td>BigQuery, ETL pipelines, Modelagem ER</td>
+      </tr>
+      <tr>
+        <td>Modelagem</td>
+        <td>Econometria, Machine Learning, Inferência Causal</td>
+      </tr>
+      <tr>
+        <td>Visualização</td>
+        <td>Looker Studio, Power BI, Matplotlib</td>
+      </tr>
+      <tr>
+        <td>Documentação</td>
+        <td>LaTeX, Markdown, GitHub</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
-### *Uncertain Politics, Predictable Consumption?* 
-Working paper sob revisão na *Emerging Markets Review*.  
-Explora como a incerteza política afeta os padrões de consumo e as respostas do mercado de trabalho na América Latina.
-
-[Link SSRN](https://dx.doi.org/10.2139/ssrn.5510940)  
-
----
-
-## Publicações Selecionadas
-
-- **“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”** *Public Health, 2021* [DOI: 10.1016/j.puhe.2021.05.010](https://doi.org/10.1016/j.puhe.2021.05.010)
-
-- **“On the Regulation of Checked Baggage in the Airline Industry.”** *International Economic Journal, 2021* [DOI: 10.1080/10168737.2021.1962949](https://doi.org/10.1080/10168737.2021.1962949)
-
----
-
-## Docência e Mentoria
-
-Na [FUCAPE Business School](https://www.fucape.br), leciono disciplinas de **Ciência de Dados** e **Economia**, além de orientar grupos de iniciação científica.  
-Cursos recentes:
-- *Introdução à Macroeconomia* - *Métodos em Ciência de Dados* - *Introdução à Programação em Python* - *Ciência de Dados em Redes Sociais* Também lidero projetos estudantis que aplicam dados governamentais abertos em contextos reais de negócios e políticas públicas.
-
----
-
-## Presença na Mídia
-
-[Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360](https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/)
-
----
-
-## Ferramentas e Métodos
-
-| Domínio | Ferramentas |
-|--------|-------|
-| Programação | Python, SQL, Stata |
-| Eng. de Dados | BigQuery, ETL pipelines, Modelagem ER |
-| Modelagem | Econometria, Machine Learning, Inferência Causal |
-| Visualização | Looker Studio, Power BI, Matplotlib |
-| Documentação | LaTeX, Markdown, GitHub |
-
----
-
-## Recomendações de Leitura
-
-[Para a lista completa com reviews, clique aqui](./readings.md)
+<details>
+  <summary><strong>⭐ Recomendações de Leitura</strong></summary>
+  <br>
+  <a href="./readings.md">Para a lista completa com reviews, clique aqui</a>
+</details>
 
 ---
 
@@ -101,3 +138,7 @@ Cursos recentes:
 - [Medium](https://medium.com/@dangalveas)
 
 > "_Uso dados abertos para tornar as evidências econômicas públicas._"
+
+
+
+
