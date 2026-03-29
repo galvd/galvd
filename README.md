@@ -1,112 +1,99 @@
- <h1>Daniel Galveas</h1>
-      <p>
-        Ph.D. Candidate in Business Administration — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
-        Lecturer (FUCAPE)<br>
-        Head of Data and IT (ZEEC-ES)<br><br>
-        Public Data Analytics Consultant
-        📍 Vitória, Espírito Santo — Brazil<br>
-        📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
-      </p>
+ ##### 🌎 [Click here for English Version](./README_EN.md)
 
-
----
-
-## About Me
-
-I work at the intersection of **applied economics, data science, and public policy evaluation**.  
-My research focuses on how information, regulation, and spatial structures shape firm behavior and regional development through geoeconomic analysis. Currently, I coordinate data infrastructure and analytics projects that connect Brazilian administrative microdata (e.g RAIS, CAGED, CNPJ) with spatial analysis for economic monitoring in Espírito Santo, Brazil.
-
-In short: _I study how data reveals economic dynamics that policy often hides._
-
-## Research Focus
-
-- **Information Economics** — signaling, disclosure, and asymmetric information  
-- **Labor Economics** — job dynamics, productivity, and regional mobility  
-- **Industrial Organization** — regulation, competition, and firm behavior  
-- **Public Policy Evaluation** — causal inference and geoeconomic data integration  
+<h1>Daniel Galvêas</h1>
+<p>
+  Doutorando em Administração — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
+  Professor (FUCAPE)<br>
+  Analista de Políticas Públicas (Ranking dos Políticos)<br>
+  Head de Dados e TI (ZEEC-ES)<br><br>
+  Consultor em Análise de Dados Públicos<br>
+  📍 Vitória, Espírito Santo — Brasil<br>
+  📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
+</p>
 
 ---
 
-## Ongoing Projects
+## Sobre Mim
 
-### 🧭 *Observatório de Empresas do Espírito Santo - Business Observatory*  
-An open data initiative combining firm-level CNPJ records, RAIS/CAGED microdata, and spatial indicators to monitor economic activity across municipalities and sectors.  
-Tools: Python, SQL, Looker Studio, BigQuery
+Atuo na intersecção entre **economia aplicada, ciência de dados e avaliação de políticas públicas**.  
+Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
 
-[Dashboard Link](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
+Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as políticas muitas vezes ocultam._
 
-### 🌊 *ZEEC-ES — Coastal Economic Zoning Project*  
-Designing a geospatial framework for ecological–economic planning of coastal regions in Espírito Santo, integrating environmental, connectivity, and labor indicators.  
-Focus: georeferenced modeling, infrastructure mapping, and economic clusters.
+## Foco de Pesquisa
 
-### 📈 *Uncertain Politics, Predictable Consumption?*  
-Working paper under review at *Emerging Markets Review*.  
-Explores how political uncertainty affects consumption patterns and labor market responses in Latin America.
-
-[SSRN Link](https://dx.doi.org/10.2139/ssrn.5510940)  
+- **Economia da Informação** — sinalização, disclosure e informação assimétrica  
+- **Economia do Trabalho** — dinâmica de empregos, produtividade e mobilidade regional  
+- **Organização Industrial** — regulação, concorrência e comportamento da firma  
+- **Avaliação de Políticas Públicas** — inferência causal e integração de dados geoeconômicos  
 
 ---
 
-## Selected Publications
+## Projetos em Andamento
 
-- **“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”**  
-  *Public Health, 2021*  
-  [DOI: 10.1016/j.puhe.2021.05.010](https://doi.org/10.1016/j.puhe.2021.05.010)
+### *Observatório de Empresas do Espírito Santo* Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
+Ferramentas: Python, SQL, Looker Studio, BigQuery.
 
-- **“On the Regulation of Checked Baggage in the Airline Industry.”**  
-  *International Economic Journal, 2021*  
-  [DOI: 10.1080/10168737.2021.1962949](https://doi.org/10.1080/10168737.2021.1962949)
+[Link do Dashboard](https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld)
 
----
+### *ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro* Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
+Foco: modelagem georreferenciada, mapeamento de infraestrutura e clusters econômicos.
 
-## Teaching & Mentorship
+### *Acompanhamento das Expectativas do Boletim Focus* Painel que acompanha as previsões semanais expostas no Boletim Focus em relação ao dado real (PIB, Selic, IPCA, Câmbio)
 
-At [FUCAPE Business School](https://www.fucape.br), I lecture in **Data Science**, **Economics** and mentor undergraduate research teams.  
-Recent courses:
-- *Introduction to Macroeconomics*  
-- *Data Science Methods*  
-- *Introduction to Python Programming*  
-- *Data Science in Social Networks*  
+[Link do Painel com os gráficos](https://github.com/galvd/bcb_focus_expectations/blob/main/charts/index.md)
 
-I also lead student projects applying open government data to real-world business and policy contexts.
+### *Uncertain Politics, Predictable Consumption?* Working paper sob revisão na *Emerging Markets Review*.  
+Explora como a incerteza política afeta os padrões de consumo e as respostas do mercado de trabalho na América Latina.
+
+[Link SSRN](https://dx.doi.org/10.2139/ssrn.5510940)  
 
 ---
 
-## Selected Media Appearances
+## Publicações Selecionadas
 
-### Portuguese
+- **“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”** *Public Health, 2021* [DOI: 10.1016/j.puhe.2021.05.010](https://doi.org/10.1016/j.puhe.2021.05.010)
 
-[Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo](https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/)
-
-
+- **“On the Regulation of Checked Baggage in the Airline Industry.”** *International Economic Journal, 2021* [DOI: 10.1080/10168737.2021.1962949](https://doi.org/10.1080/10168737.2021.1962949)
 
 ---
 
-## Tools & Methods
+## Docência e Mentoria
 
-| Domain | Tools |
+Na [FUCAPE Business School](https://www.fucape.br), leciono disciplinas de **Ciência de Dados** e **Economia**, além de orientar grupos de iniciação científica.  
+Cursos recentes:
+- *Introdução à Macroeconomia* - *Métodos em Ciência de Dados* - *Introdução à Programação em Python* - *Ciência de Dados em Redes Sociais* Também lidero projetos estudantis que aplicam dados governamentais abertos em contextos reais de negócios e políticas públicas.
+
+---
+
+## Presença na Mídia
+
+[Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360](https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/)
+
+---
+
+## Ferramentas e Métodos
+
+| Domínio | Ferramentas |
 |--------|-------|
-| Programming | Python, SQL, Stata |
-| Data Engineering | BigQuery, ETL pipelines, ERD |
-| Modeling | Econometrics, Machine Learning, Causal Inference |
-| Visualization | Looker Studio, Power BI, Matplotlib |
-| Documentation | LaTeX, Markdown, GitHub |
+| Programação | Python, SQL, Stata |
+| Eng. de Dados | BigQuery, ETL pipelines, Modelagem ER |
+| Modelagem | Econometria, Machine Learning, Inferência Causal |
+| Visualização | Looker Studio, Power BI, Matplotlib |
+| Documentação | LaTeX, Markdown, GitHub |
 
 ---
 
-## Reading Recomendations
+## Recomendações de Leitura
 
-[For the full list, click here](./readings.md) (Only in Portuguese)
+[Para a lista completa com reviews, clique aqui](./readings.md)
 
 ---
 
-## Connect
+## Contato
 
 - [LinkedIn](https://linkedin.com/in/danielgalveas)  
 - [Google Scholar](https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en)  
 - [Medium](https://medium.com/@dangalveas)
 
-
-
-> "_I use open data to make economic evidence public._"
-
+> "_Uso dados abertos para tornar as evidências econômicas públicas._"
