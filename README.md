@@ -2,7 +2,7 @@
 
 <h1>Daniel Galvêas</h1>
 <p>
-  Doutorando em Administração — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
+  Doutorando em Finanças — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
   Professor (FUCAPE)<br>
   Analista de Políticas Públicas (Ranking dos Políticos)<br>
   Head de Dados e TI (ZEEC-ES)<br>
@@ -13,19 +13,18 @@
 
 ---
 
+## Sobre Mim
+
+Atuo na intersecção entre **economia aplicada, ciência de dados e avaliação de políticas públicas**.  
+Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
+
+Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as políticas muitas vezes ocultam._
+
+---
+
+## Foco de Pesquisa
 <details>
-  <summary><strong>📖 Sobre Mim</strong></summary>
-  <br>
-  Atuo na intersecção entre <strong>economia aplicada, ciência de dados e avaliação de políticas públicas</strong>.  
-
-  Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
-
-  Em resumo: <em>Estudo como os dados revelam dinâmicas socioeconômicas que as políticas públicas muitas vezes ignoram.</em>
-</details>
-
-<details>
-  <summary><strong>🎯 Foco de Pesquisa</strong></summary>
-  <br>
+  <summary>Clique para ver detalhes</summary>
   <ul>
     <li><strong>Economia da Informação</strong> — sinalização, disclosure e informação assimétrica</li>
     <li><strong>Economia do Trabalho</strong> — dinâmica de empregos, produtividade e mobilidade regional</li>
@@ -34,8 +33,11 @@
   </ul>
 </details>
 
+---
+
+## Projetos em Andamento
 <details>
-  <summary><strong>🧭 Projetos em Andamento</strong></summary>
+  <summary>Clique para ver detalhes</summary>
   <br>
   <h3>Observatório de Empresas do Espírito Santo</h3>
   Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
@@ -59,17 +61,20 @@
   <a href="https://dx.doi.org/10.2139/ssrn.5510940">Link SSRN</a>
 </details>
 
+---
+
+## Publicações Selecionadas
 <details>
-  <summary><strong>📚 Publicações Selecionadas</strong></summary>
-  <br>
+  <summary>Clique para ver detalhes</summary>
   <ul>
     <li><strong>“A forensic analysis of SARS-CoV-2 cases and COVID-19 mortality misreporting in Brazil.”</strong> <em>Public Health, 2021</em> <a href="https://doi.org/10.1016/j.puhe.2021.05.010">[DOI]</a></li>
     <li><strong>“On the Regulation of Checked Baggage in the Airline Industry.”</strong> <em>International Economic Journal, 2021</em> <a href="https://doi.org/10.1080/10168737.2021.1962949">[DOI]</a></li>
   </ul>
 </details>
 
+## Docência e Mentoria
 <details>
-  <summary><strong>👨‍🏫 Docência e Mentoria</strong></summary>
+  <summary>Clique para ver detalhes</summary>
   <br>
   Na <a href="https://www.fucape.br">FUCAPE Business School</a>, leciono disciplinas de <strong>Ciência de Dados</strong> e <strong>Economia</strong>, além de orientar grupos de iniciação científica.  
   Cursos recentes:
@@ -82,14 +87,16 @@
   Também lidero projetos estudantis que aplicam dados governamentais abertos em contextos reais de negócios e políticas públicas.
 </details>
 
+## Presença na Mídia
 <details>
-  <summary><strong>📺 Presença na Mídia</strong></summary>
+  <summary>Clique para ver detalhes</summary>
   <br>
   <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360</a>
 </details>
 
+## Ferramentas e Métodos
 <details>
-  <summary><strong>🛠️ Ferramentas e Métodos</strong></summary>
+  <summary>Clique para ver detalhes</summary>
   <br>
   <table>
     <thead>
@@ -123,11 +130,9 @@
   </table>
 </details>
 
-<details>
-  <summary><strong>⭐ Recomendações de Leitura</strong></summary>
-  <br>
-  <a href="./readings.md">Para a lista completa com reviews, clique aqui</a>
-</details>
+## Recomendações de Leitura
+<a href="./readings.md">Para a lista completa com reviews, clique aqui</a>
+
 
 ---
 
