@@ -16,6 +16,7 @@
 ## Sobre Mim
 
 Atuo na intersecção entre **economia aplicada, ciência de dados e avaliação de políticas públicas**.  
+
 Minha pesquisa concentra-se em como a informação, a regulação e as estruturas espaciais moldam o comportamento das empresas e o desenvolvimento regional por meio da análise geoeconômica. Atualmente, coordeno projetos de infraestrutura de dados e analytics que conectam microdados administrativos brasileiros (ex: RAIS, CAGED, CNPJ) com análise espacial para monitoramento econômico no Espírito Santo.
 
 Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as políticas muitas vezes ocultam._
@@ -72,6 +73,8 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
   </ul>
 </details>
 
+---
+
 ## Docência e Mentoria
 <details>
   <summary>Clique para ver detalhes</summary>
@@ -87,12 +90,18 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
   Também lidero projetos estudantis que aplicam dados governamentais abertos em contextos reais de negócios e políticas públicas.
 </details>
 
+---
+
 ## Presença na Mídia
 <details>
   <summary>Clique para ver detalhes</summary>
   <br>
-  <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360</a>
+  <a href="https://oglobo.globo.com/opiniao/editorial/coluna/2025/10/parlamentares-nao-devem-se-meter-a-legislar-sobre-bagagens-em-aviao.ghtml">2025-10-24 - Parlamentares não devem se meter a legislar sobre bagagens em avião - O Globo (Editorial)</a>
+  
+  <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">2026-03-21 - Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360</a>
 </details>
+
+---
 
 ## Ferramentas e Métodos
 <details>

@@ -78,6 +78,30 @@ Além do grande conjunto de dados que o livro trata, destacaria também um alert
 </table>
 </details>
 
+<details>
+<summary><strong>Why Information Grows (César Hidalgo)</strong></summary>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<img src="https://m.media-amazon.com/images/I/71Rwcbu29CL._AC_UF1000,1000_QL80_.jpg" alt="Why Information Grows" width="100%"/>
+</td>
+<td width="75%" valign="top">
+<strong>Review:</strong> Hidalgo traz uma definição de economia sob a ótica da física e da teoria da informação. Ele argumenta que a riqueza não é apenas capital ou recursos, mas a capacidade física de processar e cristalizar informação em objetos, o que depende do conhecimento e know-how acumulado nos arranjos sociais (e institucionais) de uma economia/sociedade.
+
+Uma leitura heterodoxa fascinante sobre complexidade econômica. O livro ajuda quantificar a diferença tecnologica e de resultado econômico entre países, com uma base teórica vinda da física. Esse arcabouço teórico, definido por "informação", se apoia fortemente na densidade das redes de cooperação e na capacidade de armazenar "know-how" coletivo das sociedades. Os mecanismos que viabilizam esse armazenamento podem ser traduzidos, com poucos graus de liberdade, em instituições e, por isso, aloquei esse livro nessa seção.
+
+Cabe aqui a menção ao poder de diagnóstico do método e não de prognóstico, como alguns economista brasileiros divulgam. Uma pena que uma teoria tão cativante tenha encontrado lar nesse porão ideológico chamado "Desenvolvimentismo" brasileiro.
+
+<strong>Nota:</strong> ⭐⭐⭐⭐⭐
+
+<a href="https://amzn.to/4bGuIJF">Ver na Amazon EN-US</a> 
+
+</td>
+</tr>
+</table>
+</details>
+
 
 
 ---
