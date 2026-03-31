@@ -53,7 +53,7 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
   <h3>Acompanhamento das Expectativas do Boletim Focus</h3>
   Painel que acompanha as previsões semanais expostas no Boletim Focus em relação aos dados reais (PIB, Selic, IPCA e Taxa de Câmbio).
   <br>
-  <a href="https://github.com/galvd/bcb_focus_expectations/blob/main/charts/index.md">Link do Painel com os gráficos</a>
+  <a href="https://github.com/galvd/focus_expectations/blob/main/charts/index.md">Link do Painel com os gráficos</a>
 
   <h3>Uncertain Politics, Predictable Consumption?</h3>
   Working paper sob revisão na <em>Emerging Markets Review</em>.  
