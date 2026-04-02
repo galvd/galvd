@@ -6,6 +6,24 @@ Para ler o curto review, basta clicar no título de cada livro.
 
 [← Voltar para a página principal](https://github.com/galvd)
 
+
+## Leitura atual
+
+<summary><strong>The Power of Creative Destruction (Philippe Aghion, Céline Antonin & Simon Bunel)</strong></summary>
+  
+<table>
+<tr>
+<td width="25%" valign="top">
+<img src="https://m.media-amazon.com/images/I/714dD4RhQ9L._AC_UY218_.jpg" alt="The Power of Creative Destruction" width="100%"/>
+</td>
+<td width="75%" valign="top">
+
+<a href="https://amzn.to/41aTifG">Ver na  Amazon (versão em inglês)</a>
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## 🏛️ Instituições e Desenvolvimento Econômico
@@ -26,7 +44,7 @@ Um dos maiores livros não-técnicos sobre economia institucional. Why Nations F
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4u6RHVi">Ver na  Amazon EN-US</a> | <a href="https://amzn.to/47m05GF">Ver na  Amazon PT-BR</a>
+<a href="https://amzn.to/4u6RHVi">Ver na  Amazon (versão em inglês)</a> | <a href="https://amzn.to/47m05GF">Ver na  Amazon</a>
 </td>
 </tr>
 </table>
@@ -48,7 +66,7 @@ Um livro denso com conceitos pouco triviais, principalmente para não economista
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4cYfoJi">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4rNarYj">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4cYfoJi">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4rNarYj">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -71,7 +89,7 @@ Além do grande conjunto de dados que o livro trata, destacaria também um alert
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4d4M2ca">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4u4WMNN">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4d4M2ca">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4u4WMNN">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -95,7 +113,7 @@ Cabe aqui a menção ao poder de diagnóstico do método e não de prognóstico,
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4bGuIJF">Ver na Amazon EN-US</a> 
+<a href="https://amzn.to/4bGuIJF">Ver na Amazon (versão em inglês)</a> 
 
 </td>
 </tr>
@@ -125,7 +143,7 @@ Um livro sensacional sobre como incentivos influenciam indivíduos com uma lingu
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4cY21c0">Ver na Amazon EN-US</a> | <a href="https://amzn.to/47cHcpF">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4cY21c0">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/47cHcpF">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -149,7 +167,7 @@ Pessoalmente, Narrative Economics me instigou a escrever um artigo sobre precifi
 
 <strong>Nota:</strong> ⭐⭐⭐⭐
 
-<a href="https://amzn.to/4aJVr7G">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4rcbhNo">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4aJVr7G">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4rcbhNo">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -174,7 +192,7 @@ Sugiro também o podcast do Freakonomics que faz discussões muito interessantes
 
 <strong>Nota:</strong> ⭐⭐⭐⭐
 
-<a href="https://amzn.to/40rJ36t">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4smnEay">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/40rJ36t">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4smnEay">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -202,7 +220,7 @@ Quem quer entrar na área de dados, quem não quer ser feito de bobo ou mesmo pe
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/47o9zBh">Ver na Amazon EN-US</a> | <a href="https://amzn.to/47o9zBh">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/47o9zBh">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/47o9zBh">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -225,7 +243,7 @@ Esse é um livro que funciona mais como um material de consulta. No entanto, a d
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4cTEFV2">Ver na Amazon EN-US</a> | <a href="https://amzn.to/408zby7">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4cTEFV2">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/408zby7">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -248,7 +266,7 @@ Qualquer economista e profissional de dados se beneficia de mais pensamento mate
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4r6oO9a">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4l3jn9s">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4r6oO9a">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4l3jn9s">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -276,7 +294,7 @@ Esse livro está nessa lista principalmente por ter sido o principal catalizador
 
 <strong>Nota:</strong> ⭐⭐⭐
 
-<a href="https://amzn.to/4cq2CmF">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4aLr7cO">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4cq2CmF">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4aLr7cO">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -299,7 +317,7 @@ O Kiyosaki é uma pessoa polêmica e o livro traz exemplos caricatos, mas a leit
 
 <strong>Nota:</strong> ⭐⭐⭐
 
-<a href="https://amzn.to/4ssorqF">Ver na Amazon EN-US</a> | <a href="https://amzn.to/47cIy3J">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4ssorqF">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/47cIy3J">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -322,7 +340,7 @@ Um bom livro sobre tradeoffs da vida pessoal e como podemos gerenciar nossas esc
 
 <strong>Nota:</strong> ⭐⭐⭐
 
-<a href="https://amzn.to/4bjIAsV">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4082YqJ">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4bjIAsV">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4082YqJ">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -350,7 +368,7 @@ Considero que esse livro traz uma das visões mais sensatas sobre o que de fato 
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4aMHm9B">Ver na Amazon EN-US</a> | <a href="https://amzn.to/403F7si">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4aMHm9B">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/403F7si">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -373,7 +391,7 @@ Uma obra singular sobre diversos temas de economia. Muitas perspectivas interess
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4rSw9KE">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4cTFo8I">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4rSw9KE">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4cTFo8I">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -396,7 +414,7 @@ Uma obra singular sobre diversos temas de economia. Muitas perspectivas interess
 
 <strong>Nota:</strong> ⭐⭐⭐
 
-<a href="https://amzn.to/408n6Ji">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/408n6Ji">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -419,7 +437,7 @@ Essa é uma leitura pra quem busca refinar o seu olhar sobre o mercado. Algumas 
 
 <strong>Nota:</strong> ⭐⭐⭐⭐
 
-<a href="https://amzn.to/3OJyfhk">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4sqlOWg">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/3OJyfhk">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4sqlOWg">Ver na Amazon</a>
 </td>
 </tr>
 
@@ -442,7 +460,7 @@ Um clássico que deveria ser lido em todos os cursos que lidam com sociedade. To
 
 <strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/4l70hiV">Ver na Amazon EN-US</a> | <a href="https://amzn.to/4rHyWpX">Ver na Amazon PT-BR</a>
+<a href="https://amzn.to/4l70hiV">Ver na Amazon (versão em inglês)</a> | <a href="https://amzn.to/4rHyWpX">Ver na Amazon</a>
 </td>
 </tr>
 
