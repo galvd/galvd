@@ -17,6 +17,7 @@ Para ler o curto review, basta clicar no título de cada livro.
 <img src="https://m.media-amazon.com/images/I/714dD4RhQ9L._AC_UY218_.jpg" alt="The Power of Creative Destruction" width="100%"/>
 </td>
 <td width="75%" valign="top">
+
 <strong>Descrição:</strong> Um livro sobre o papel da Destruição Criativa na sociedade, fortemente alicerçado na visão Schumpeteriana, que busca explicar como é possível coordenar variáveis como crescimento econômico, desigualdade, inovação, desenvolvimento sustentável e economia de mercado. 
 
 

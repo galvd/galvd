@@ -53,7 +53,7 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   <h3>BCB Focus Report Expectations Tracker</h3>
   A dashboard that tracks weekly market forecasts from the Focus Report against real-time economic data (GDP, Selic, IPCA, and Exchange Rate).
   <br>
-  <a href="https://github.com/galvd/focus_expectations/blob/main/charts/index.md">Dashboard Link with Charts</a>
+  <a href="https://galvd.github.io/focus_expectations/">Dashboard Link with Charts</a>
 
   <h3>Uncertain Politics, Predictable Consumption?</h3>
   Working paper under review at <em>Emerging Markets Review</em>.  
