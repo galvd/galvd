@@ -1,9 +1,10 @@
 ##### 🌎 [Clique aqui para a Versão em Português](./README.md)
 
 <h1>Daniel Galvêas</h1>
-<table border="0">
+
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" align="left">
       <p>
         Ph.D. Candidate in Finance — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
         Lecturer (FUCAPE)<br>
@@ -13,12 +14,14 @@
         📍 Vitória, Espírito Santo — Brazil
       </p>
     </td>
-    <td width="40%" valign="top">
-      <strong>📬 Contact & Social</strong><br>
-      📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a><br>
-      🔗 <a href="https://www.linkedin.com/in/daniel-galveas-91490299/?locale=en">LinkedIn</a><br>
-      🎓 <a href="https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en">Google Scholar</a><br>
-      ✍️ <a href="https://medium.com/@dangalveas">Medium</a>
+    <td width="40%" valign="top" align="right">
+      <div align="left" style="display: inline-block;">
+        <strong>📬 Contact & Social</strong><br>
+        📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a><br>
+        🔗 <a href="https://linkedin.com/in/danielgalveas">LinkedIn</a><br>
+        🎓 <a href="https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en">Google Scholar</a><br>
+        ✍️ <a href="https://medium.com/@dangalveas">Medium</a>
+      </div>
     </td>
   </tr>
 </table>
