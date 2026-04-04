@@ -3,29 +3,31 @@
 
 <h1>Daniel Galvêas</h1>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top" align="left">
-      <p>
-        Doutorando em Finanças — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
-        Professor (FUCAPE)<br>
-        Analista de Políticas Públicas (Ranking dos Políticos)<br>
-        Head de Dados e TI (ZEEC-ES)<br>
-        Consultor em Análise de Dados Públicos<br><br>
-        📍 Vitória, Espírito Santo — Brasil
-      </p>
-    </td>
-    <td width="40%" valign="top" align="right">
-      <div align="left" style="display: inline-block;">
-        <strong>📬 Contato & Social</strong><br>
-        📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a><br>
-        🔗 <a href="https://linkedin.com/in/danielgalveas">LinkedIn</a><br>
-        🎓 <a href="https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en">Google Scholar</a><br>
-        ✍️ <a href="https://medium.com/@dangalveas">Medium</a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" width="100%" style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td align="left" valign="top" style="border: none;">
+        <p>
+          Doutorando em Finanças — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
+          Professor (FUCAPE)<br>
+          Analista de Políticas Públicas (Ranking dos Políticos)<br>
+          Head de Dados e TI (ZEEC-ES)<br>
+          Consultor em Análise de Dados Públicos<br><br>
+          📍 Vitória, Espírito Santo — Brasil
+        </p>
+      </td>
+      <td align="right" valign="top" style="border: none;">
+        <div align="left" style="display: inline-block; min-width: 200px;">
+          <strong>📬 Contato & Social</strong><br>
+          📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a><br>
+          🔗 <a href="https://linkedin.com/in/danielgalveas">LinkedIn</a><br>
+          🎓 <a href="https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en">Google Scholar</a><br>
+          ✍️ <a href="https://medium.com/@dangalveas">Medium</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
