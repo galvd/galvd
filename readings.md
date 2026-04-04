@@ -471,6 +471,6 @@ Um clássico que deveria ser lido em todos os cursos que lidam com sociedade. To
 </details>
 
 ---
-<sub>*Última atualização: Março de 2026.*</sub>  
+<sub>*Última atualização: Abril de 2026.*</sub>  
 
 <sub><sup>*Nota: Como associado da Amazon, posso receber uma pequena comissão por compras qualificadas efetuadas através dos links acima, sem custo adicional para o comprador.*</sup></sub>
