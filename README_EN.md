@@ -1,15 +1,27 @@
 ##### 🌎 [Clique aqui para a Versão em Português](./README.md)
 
 <h1>Daniel Galvêas</h1>
-<p>
-  Ph.D. Candidate in Finance — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
-  Lecturer (FUCAPE)<br>
-  Public Policy Analyst (Ranking dos Políticos)<br>
-  Head of Data and IT (ZEEC-ES)<br>
-  Public Data Analytics Consultant<br><br>
-  📍 Vitória, Espírito Santo — Brazil<br>
-  📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a>
-</p>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Ph.D. Candidate in Finance — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
+        Lecturer (FUCAPE)<br>
+        Public Policy Analyst (Ranking dos Políticos)<br>
+        Head of Data and IT (ZEEC-ES)<br>
+        Public Data Analytics Consultant<br><br>
+        📍 Vitória, Espírito Santo — Brazil
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <strong>📬 Contact & Social</strong><br>
+      📧 <a href="mailto:danielgalveas@fucape.br">danielgalveas@fucape.br</a><br>
+      🔗 <a href="https://www.linkedin.com/in/daniel-galveas-91490299/?locale=en">LinkedIn</a><br>
+      🎓 <a href="https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en">Google Scholar</a><br>
+      ✍️ <a href="https://medium.com/@dangalveas">Medium</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -146,10 +158,5 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
 
 ---
 
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/danielgalveas)  
-- [Google Scholar](https://scholar.google.com.br/citations?user=MVJu6GgAAAAJ&hl=en)  
-- [Medium](https://medium.com/@dangalveas)
 
 > "_I use open data to make economic evidence public._"
