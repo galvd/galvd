@@ -470,6 +470,45 @@ Um clássico que deveria ser lido em todos os cursos que lidam com sociedade. To
 </table>
 </details>
 
+
+---
+
+## ⏳ Backlog de Leitura
+*Uma lista, <strong>sem ordem específica</strong>, de livros que estão na estante e serão lidos eventualmente. Caso eu goste (ou julgue interessante), subo para a lista de recomendações com o review.*
+
+<details>
+<summary><strong>Clique para ver a lista de livros pendentes</strong></summary>
+
+| Livro | Autor(es) |
+| :--- | :--- |
+| **Radical Markets** | Eric Posner & Glen Weyl |
+| **O Corredor Estreito** | Acemoglu & Robinson |
+| **A Moeda e a Lei** | Gustavo Franco |
+| **Sapiens: Uma Breve História da Humanidade** | Yuval Noah Harari |
+| **A revolução burguesa no Brasil: ensaio de interpretação sociológica** | Florestan Fernandes |
+| **O Novo Iluminismo** | Steven Pinker |
+| **Poor Economics** | Abhijit Banerjee & Esther Duflo |
+| **Good Economics for Hard Times** | Abhijit Banerjee & Esther Duflo |
+| **Psicologia Financeira** | Morgan Housel |
+| **A Lógica da Ação Coletiva** | Mancur Olson |
+| **Teoria dos Sentimentos Morais** | Adam Smith |
+| **Conservadorismo** | Roger Scruton |
+| **Manifesto Comunista** | Karl Marx & Friedrich Engels |
+| **1984** | George Orwell |
+| **Sobre o Autoritarismo Brasileiro** | Lilia Schwarcz |
+| **Raízes do Brasil** | Sérgio Buarque de Holanda |
+| **Cartas a um Jovem Economista** | Gustavo Franco |
+| **Finance and the Good Society** | Robert Shiller |
+| **O valor das ideias: Debate em tempos turbulentos** | Marcos Lisboa e Samuel Pessôa |
+| **Misbehaving** | Richard Thaler |
+| **Nudge** | Richard Thaler & Cass Sunstein |
+| **Free to Choose** | Milton Friedman |
+| **História Econômica Global: Uma breve introdução** | Robert C. Allen |
+
+</details>
+
+---
+
 ---
 <sub>*Última atualização: Abril de 2026.*</sub>  
 
