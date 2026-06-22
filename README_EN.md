@@ -116,6 +116,10 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   <a href="https://oglobo.globo.com/opiniao/editorial/coluna/2025/10/parlamentares-nao-devem-se-meter-a-legislar-sobre-bagagens-em-aviao.ghtml">2025-10-24 - Lawmakers should not interfere in airline baggage legislation - O Globo (Editorial)</a>
   <br>
   <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">2026-03-21 - Ending the 6x1 work schedule could eliminate up to 1.1 million jobs, study says - Poder360</a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=S4lapUwxDZo">2026-06-09 - Ponto de Vista Program - Interview about the end of the 6x1 work schedule in Brazil</a>
+  <br>
+  <a href="https://www1.folha.uol.com.br/colunas/painel/2026/06/86-dos-projetos-apresentados-no-congresso-restringem-liberdade-economica-diz-estudo.shtml">2026-06-20 - 86% of bills presented in Congress restrict economic freedom, study says - Folha de São Paulo</a>
 </details>
 
 ---
