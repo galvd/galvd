@@ -9,28 +9,51 @@ Para ler o curto review, basta clicar no título de cada livro.
 
 ## Leitura atual
 
+<summary><strong>Radical Markets (Eric Posner & Glen Weyl)</strong></summary>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<img src="https://m.media-amazon.com/images/I/81-uOTuwXeL.jpg" alt="Radical Markets" width="100%"/>
+</td>
+<td width="75%" valign="top">
+
+<strong>Descrição:</strong> Um livro que desafia a nossa noção de propriedade privada. Nesse sentido, como seria uma sociedade cuja propriedade privada existe, mas nossos bens têm preços declarados a todos e vivem em um estado constante de leilão público. 
+
+Ainda bem no início da leitura, porém fico intrigado sobre como essa visão pode -se for o caso- nos ajudar a construir uma sociedade mais justa e próspera.
+
+<a href="https://link.amazon/B075pyCE0">Ver na Amazon (versão em inglês)</a>
+</td>
+</tr>
+</table>
+
+*(Imagem e link da Amazon não constavam na lista original — substitua os placeholders acima.)*
+
+---
+
+## 🏛️ Instituições e Desenvolvimento Econômico
+*Análise de como regras, política e história moldam o desenvolvimento das nações.*
+
+<details>
 <summary><strong>The Power of Creative Destruction (Philippe Aghion, Céline Antonin & Simon Bunel)</strong></summary>
-  
+
 <table>
 <tr>
 <td width="25%" valign="top">
 <img src="https://m.media-amazon.com/images/I/714dD4RhQ9L._AC_UY218_.jpg" alt="The Power of Creative Destruction" width="100%"/>
 </td>
 <td width="75%" valign="top">
+<strong>Review:</strong> O livro debate se é possível conciliar uma sociedade mais igualitária com um crescimento econômico mais pujante, e questiona se a inovação estaria fadada a destruir empregos, obrigando a sociedade a se reinventar a cada invenção desruptiva. Aghion, laureado com o Nobel de Economia de 2025, e seus coautores reúnem um compilado de análises e estudos feitos em diversos países (ricos e pobres) sobre como a inovação é capaz de promover desenvolvimento econômico, trazendo oportunidades e maior igualdade para a sociedade.
 
-<strong>Descrição:</strong> Um livro sobre o papel da Destruição Criativa na sociedade, fortemente alicerçado na visão Schumpeteriana, que busca explicar como é possível coordenar variáveis como crescimento econômico, desigualdade, inovação, desenvolvimento sustentável e economia de mercado. 
+Apesar de ter sido lançado em 2021, o conteúdo já posiciona a obra entre as grandes referências sobre o tema, propondo formas e ferramentas concretas para tornar a inovação peça central no desenvolvimento de uma nação.
 
+<strong>Nota:</strong> ⭐⭐⭐⭐⭐
 
-<a href="https://amzn.to/41aTifG">Ver na  Amazon (versão em inglês)</a>
+<a href="https://amzn.to/41aTifG">Ver na Amazon (versão em inglês)</a>
 </td>
 </tr>
 </table>
-
-
----
-
-## 🏛️ Instituições e Desenvolvimento Econômico
-*Análise de como regras, política e história moldam o desenvolvimento das nações.*
+</details>
 
 <details>
 <summary><strong>Why Nations Fail (Acemoglu & Robinson)</strong></summary>
@@ -481,7 +504,6 @@ Um clássico que deveria ser lido em todos os cursos que lidam com sociedade. To
 
 | Livro | Autor(es) |
 | :--- | :--- |
-| **Radical Markets** | Eric Posner & Glen Weyl |
 | **O Corredor Estreito** | Acemoglu & Robinson |
 | **A Moeda e a Lei** | Gustavo Franco |
 | **Sapiens: Uma Breve História da Humanidade** | Yuval Noah Harari |
@@ -510,6 +532,6 @@ Um clássico que deveria ser lido em todos os cursos que lidam com sociedade. To
 ---
 
 ---
-<sub>*Última atualização: Abril de 2026.*</sub>  
+<sub>*Última atualização: Julho de 2026.*</sub>  
 
 <sub><sup>*Nota: Como associado da Amazon, posso receber uma pequena comissão por compras qualificadas efetuadas através dos links acima, sem custo adicional para o comprador.*</sup></sub>
