@@ -27,8 +27,6 @@ Ainda bem no início da leitura, porém fico intrigado sobre como essa visão po
 </tr>
 </table>
 
-*(Imagem e link da Amazon não constavam na lista original — substitua os placeholders acima.)*
-
 ---
 
 ## 🏛️ Instituições e Desenvolvimento Econômico
