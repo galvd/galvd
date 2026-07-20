@@ -120,6 +120,10 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   <a href="https://www.youtube.com/watch?v=S4lapUwxDZo">2026-06-09 - Ponto de Vista Program - Interview about the end of the 6x1 work schedule in Brazil</a>
   <br>
   <a href="https://www1.folha.uol.com.br/colunas/painel/2026/06/86-dos-projetos-apresentados-no-congresso-restringem-liberdade-economica-diz-estudo.shtml">2026-06-20 - 86% of bills presented in Congress restrict economic freedom, study says - Folha de São Paulo</a>
+
+  <a href="https://revistaoeste.com/politica/o-intervencionismo-brasileiro-vai-muito-alem-do-congresso/">2026-07-20 - The Brazilian intervencionism goes way beyond the Congress - Revista Oeste</a>
+
+  <a href="https://www.folhavitoria.com.br/trabalho/estudo-revela-as-profissoes-com-maior-renda-e-patrimonio-no-es-saiba-quais/">2026-07-20 - Study reveals which professions have the higher income and equity at Espírito Santo - Folha Vitória</a>
 </details>
 
 ---

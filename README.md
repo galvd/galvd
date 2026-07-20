@@ -121,6 +121,14 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
   <a href="https://www.youtube.com/watch?v=S4lapUwxDZo">2026-06-09 - Programa Ponto de Vista - Entrevista sobre o fim da Escala 6x1</a>
 
   <a href="https://www1.folha.uol.com.br/colunas/painel/2026/06/86-dos-projetos-apresentados-no-congresso-restringem-liberdade-economica-diz-estudo.shtml">2026-06-20 - 86% dos projetos apresentados no Congresso restringem liberdade econômica, diz estudo - Folha de São Paulo</a>
+
+  <a href="https://revistaoeste.com/politica/o-intervencionismo-brasileiro-vai-muito-alem-do-congresso/">2026-07-20 - O intervencionismo brasileiro vai muito além do Congresso - Revista Oeste</a>
+
+  <a href="https://www.folhavitoria.com.br/trabalho/estudo-revela-as-profissoes-com-maior-renda-e-patrimonio-no-es-saiba-quais/">2026-07-20 - Estudo revela as profissões com maior renda e patrimônio no ES; saiba quais - Folha Vitória</a>
+
+  
+
+
 </details>
 
 ---
