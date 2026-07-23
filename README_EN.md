@@ -124,6 +124,11 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   <a href="https://revistaoeste.com/politica/o-intervencionismo-brasileiro-vai-muito-alem-do-congresso/">2026-07-20 - The Brazilian intervencionism goes way beyond the Congress - Revista Oeste</a>
 
   <a href="https://www.folhavitoria.com.br/trabalho/estudo-revela-as-profissoes-com-maior-renda-e-patrimonio-no-es-saiba-quais/">2026-07-20 - Study reveals which professions have the higher income and equity at Espírito Santo - Folha Vitória</a>
+
+  <a href="https://youtu.be/MQnZJlw54VY?t=416">2026-07-20 - TV Vitória - Income Tax: Salaried workers more impacted than investors</a>
+  <br>
+
+  <a href="https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/veja-o-ranking-que-compara-media-de-bens-por-profissao-no-es-14796725.ghtml">2026-07-21 - TV Gazeta - Who accumulates more wealth in ES</a>
 </details>
 
 ---
