@@ -117,7 +117,7 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   <br>
   <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">2026-03-21 - Ending the 6x1 work schedule could eliminate up to 1.1 million jobs, study says - Poder360</a>
   <br>
-  <a href="https://www.youtube.com/watch?v=S4lapUwxDZo">2026-06-09 - Ponto de Vista Program - Interview about the end of the 6x1 work schedule in Brazil</a>
+  <a href="https://www.youtube.com/watch?v=S4lapUwxDZo">2026-06-09 - Ponto de Vista Program - Interview about the end of the 6x1 work schedule in Brazil (Interview)</a>
   <br>
   <a href="https://www1.folha.uol.com.br/colunas/painel/2026/06/86-dos-projetos-apresentados-no-congresso-restringem-liberdade-economica-diz-estudo.shtml">2026-06-20 - 86% of bills presented in Congress restrict economic freedom, study says - Folha de São Paulo</a>
 
@@ -125,10 +125,10 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
 
   <a href="https://www.folhavitoria.com.br/trabalho/estudo-revela-as-profissoes-com-maior-renda-e-patrimonio-no-es-saiba-quais/">2026-07-20 - Study reveals which professions have the higher income and equity at Espírito Santo - Folha Vitória</a>
 
-  <a href="https://youtu.be/MQnZJlw54VY?t=416">2026-07-20 - TV Vitória - Income Tax: Salaried workers more impacted than investors</a>
+  <a href="https://youtu.be/MQnZJlw54VY?t=416">2026-07-20 - Income Tax: Salaried workers more impacted than investors - TV Vitória (Interview)</a>
   <br>
 
-  <a href="https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/veja-o-ranking-que-compara-media-de-bens-por-profissao-no-es-14796725.ghtml">2026-07-21 - TV Gazeta - Who accumulates more wealth in ES</a>
+  <a href="https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/veja-o-ranking-que-compara-media-de-bens-por-profissao-no-es-14796725.ghtml">2026-07-21 - Who accumulates more wealth in ES - TV Gazeta (Live Interview)</a>
 </details>
 
 ---

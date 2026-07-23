@@ -126,10 +126,10 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
 
   <a href="https://www.folhavitoria.com.br/trabalho/estudo-revela-as-profissoes-com-maior-renda-e-patrimonio-no-es-saiba-quais/">2026-07-20 - Estudo revela as profissões com maior renda e patrimônio no ES; saiba quais - Folha Vitória</a>
 
-  <a href="https://youtu.be/MQnZJlw54VY?t=416">2026-07-20 - TV Vitória - Imposto de Renda: Assalariados mais impactados que investidores</a>
+  <a href="https://youtu.be/MQnZJlw54VY?t=416">2026-07-20 - Imposto de Renda: Assalariados mais impactados que investidores - TV Vitória (Entrevista)</a>
   <br>
 
-  <a href="https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/veja-o-ranking-que-compara-media-de-bens-por-profissao-no-es-14796725.ghtml">2026-07-21 - TV Gazeta - Quem acumula mais riqueza no ES</a>
+  <a href="https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/veja-o-ranking-que-compara-media-de-bens-por-profissao-no-es-14796725.ghtml">2026-07-21- Quem acumula mais riqueza no ES - TV Gazeta (Entrevista Ao Vivo)</a>
 
   
 
