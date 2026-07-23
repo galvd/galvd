@@ -114,6 +114,7 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
 <details>
   <summary>Clique para ver detalhes</summary>
   <br>
+  
   <a href="https://oglobo.globo.com/opiniao/editorial/coluna/2025/10/parlamentares-nao-devem-se-meter-a-legislar-sobre-bagagens-em-aviao.ghtml">2025-10-24 - Parlamentares não devem se meter a legislar sobre bagagens em avião - O Globo (Editorial)</a>
   
   <a href="https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-eliminar-ate-11-mi-de-empregos-diz-estudo/">2026-03-21 - Fim da escala 6 X 1 pode eliminar até 1,1 mi de empregos, diz estudo - Poder360</a>
