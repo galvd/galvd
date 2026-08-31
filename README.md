@@ -12,7 +12,7 @@
           Professor (FUCAPE)<br>
           Accounting Visiting Scholar — <a href="https://business.uic.edu/academics-research/dept/department-of-accounting/">University of Illinois Chicago</a><br> 
           Especialista em Políticas Públicas — <a href="https://ranking.org.br">Ranking dos Políticos</a><br>
-          Colunista de Dados Econômicos — <a href="https://economiacapixaba.com/categoria/dados">Economia Capixaba</a>
+          Colunista de Dados Econômicos — <a href="https://economiacapixaba.com/categoria/dados">Economia Capixaba</a><br>
           Consultor em Análise de Dados Públicos<br><br>
           📍 Vitória, Espírito Santo — Brasil
         </p>
