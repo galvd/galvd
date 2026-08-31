@@ -8,9 +8,10 @@
       <td align="left" valign="top" style="border: none;">
         <p>
           Ph.D. Candidate in Finance — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
-          Lecturer (FUCAPE)<br>
-          Public Policy Analyst (Ranking dos Políticos)<br>
-          Head of Data and IT (ZEEC-ES)<br>
+          Lecturer (FUCAPE)<br>          
+          Accounting Visiting Scholar — <a href="https://business.uic.edu/academics-research/dept/department-of-accounting/">University of Illinois Chicago</a><br> 
+          Public Policy Specialist — <a href="https://ranking.org.br/en">Ranking dos Políticos</a><br>
+          Data Columnist, Economics — <a href="https://economiacapixaba.com/categoria/dados">Economia Capixaba</a>
           Public Data Analytics Consultant<br><br>
           📍 Vitória, Espírito Santo — Brazil
         </p>
@@ -61,7 +62,7 @@ In short: _I study how data reveals socioeconomic dynamics that public policies 
   An open data initiative combining firm-level records (CNPJ), administrative microdata (RAIS/CAGED), and spatial indicators to monitor economic activity across municipalities and sectors.  
   Tools: Python, SQL, Looker Studio, BigQuery.
   <br>
-  <a href="https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld">Dashboard Link</a>
+  <a href="https://galvd.github.io/observatorio-es/">Dashboard Link</a>
 
   <h3>ZEEC-ES — Coastal Ecological-Economic Zoning</h3>
   Designing a geospatial framework for the planning of coastal regions in Espírito Santo, integrating environmental, connectivity, and labor indicators.  

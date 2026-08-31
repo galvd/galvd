@@ -10,8 +10,9 @@
         <p>
           Doutorando em Finanças — <a href="https://www.fucape.br">FUCAPE Business School</a><br>
           Professor (FUCAPE)<br>
-          Analista de Políticas Públicas (Ranking dos Políticos)<br>
-          Head de Dados e TI (ZEEC-ES)<br>
+          Accounting Visiting Scholar — <a href="https://business.uic.edu/academics-research/dept/department-of-accounting/">University of Illinois Chicago</a><br> 
+          Especialista em Políticas Públicas — <a href="https://ranking.org.br">Ranking dos Políticos</a><br>
+          Colunista de Dados Econômicos — <a href="https://economiacapixaba.com/categoria/dados">Economia Capixaba</a>
           Consultor em Análise de Dados Públicos<br><br>
           📍 Vitória, Espírito Santo — Brasil
         </p>
@@ -60,9 +61,9 @@ Em resumo: _Estudo como os dados revelam dinâmicas socioeconômicas que as pol�
   <br>
   <h3>Observatório de Empresas do Espírito Santo</h3>
   Uma iniciativa de dados abertos que combina registros de CNPJ, microdados da RAIS/CAGED e indicadores espaciais para monitorar a atividade econômica em todos os municípios e setores do estado.  
-  Ferramentas: Python, SQL, Looker Studio, BigQuery.
+  Ferramentas: Python, SQL, Github, BigQuery.
   <br>
-  <a href="https://lookerstudio.google.com/reporting/c343406e-dbb1-41b7-a2db-56b4801d5101/page/p_eo722dulld">Link do Dashboard</a>
+  <a href="https://galvd.github.io/observatorio-es/">Link do Painel</a>
 
   <h3>ZEEC-ES — Zoneamento Ecológico-Econômico Costeiro</h3>
   Desenvolvimento de um framework geoespacial para o planejamento das regiões costeiras do Espírito Santo, integrando indicadores ambientais, de conectividade e de trabalho.  
